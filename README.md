@@ -8,3 +8,9 @@ Technologies use:
 - Antd
 - Styled-components
 - Create-react-app
+
+command to create a new react-app use this template
+
+```
+npx create-react-app my-app --template nhc
+```

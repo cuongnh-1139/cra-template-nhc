@@ -1,5 +1,14 @@
 {
   "name": "cra-template-nhc",
-  "version": "1.0.0",
-  "license": "MIT"
+  "version": "1.0.1",
+  "main": "template.json",
+  "license": "MIT",
+  "keywords": [
+    "react", 
+    "create-react-app",
+    "cra-template",
+    "template",
+    "redux-toolkit"
+  ],
+  "files": ["template", "template.json"]
 }
