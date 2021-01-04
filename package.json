@@ -1,6 +1,7 @@
 {
   "name": "cra-template-nhc",
-  "version": "1.0.3",
+  "version": "1.0.4",
+  "homepage": "https://github.com/cuongnh-1139/cra-template-nhc",
   "main": "template.json",
   "license": "MIT",
   "keywords": [
